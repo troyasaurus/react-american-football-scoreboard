@@ -1,4 +1,6 @@
 //Just starting
+//working on rewatching lectures and taking my time
+
 //TODO: STEP 1 - Import the useState hook.
 import React from "react";
 import BottomRow from "./BottomRow";
